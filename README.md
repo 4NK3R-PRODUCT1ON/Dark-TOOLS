@@ -1,4 +1,4 @@
-# Dark-TOOLS
+# 1.000 SUBSCRIBERRRR
 
 $ pkg update && pkg upgrade
 
